@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning git, googletest, CMake...
 - 💞️ I’m looking to collaborate on open source projects (maybe not yet)
 - 📫 How to reach me: write to my user profile in GitHub :)
+- ❤ I love coffee.
 
 <!---
 JJ-de/JJ-de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
